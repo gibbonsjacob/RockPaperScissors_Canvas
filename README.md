@@ -3,4 +3,4 @@
 This sketch shows a canvas of (currently) 300 Rock/Paper/Scissor objects that move around the canvas randomly. 
 Any time two objects collide, they'll "play Rock, Paper, Scissors", and the loser's image will change to the winner. Eventually, there'll be a canvas full
 of only one image. Currently the number of each object type is randomly picked at the start of the function. 
-![79967196-69A0-4CA7-A479-BDE8898789CC_1_105_c / gif](https://user-images.githubusercontent.com/72513575/157523553-8ab8d8b0-e2aa-40b7-a251-4a31cc8f6ee9.jpeg)
+![79967196-69A0-4CA7-A479-BDE8898789CC_1_105_c / gif]
